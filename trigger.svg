@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 88.9 121.8"
+   style="enable-background:new 0 0 88.9 121.8;"
+   xml:space="preserve"
+   sodipodi:docname="trigger.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="725"
+   inkscape:window-height="480"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="6.8144497"
+   inkscape:cx="44.450001"
+   inkscape:cy="96.11928"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#E5E5E5;}
+	.st1{fill:#57B8CF;}
+	.st2{fill:#56CEEB;}
+</style>
+<g
+   id="LT_Pressed">
+	<path
+   class="st0"
+   d="M74.8,56.1v-0.7C74.8,55.8,74.8,56.1,74.8,56.1z"
+   id="path4" />
+	<path
+   class="st1"
+   d="M49.7,5.5c0.4-0.3,0.8-0.6,1.2-0.9l2.3,110L0,121.8C12.1,5,43,10.8,49.7,5.5z"
+   id="path6" />
+	<path
+   class="st2"
+   d="M76.7,0.1c10.8,0.4,12.1,11.4,12.2,15.2v1.2c0,0-2.9,40.7,0,93.1c-9.9,2.3-38.5,5.3-38.5,5.3   S50.3,94,49.7,64.4c-0.8-37.5,1.2-59.8,1.2-59.8C57.3,0.1,64.5-0.3,76.7,0.1z"
+   id="path8" />
+</g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 67.4 33.2"
+   style="enable-background:new 0 0 67.4 33.2;"
+   xml:space="preserve"
+   sodipodi:docname="start-select.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="725"
+   inkscape:window-height="480"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="18.026706"
+   inkscape:cx="33.700001"
+   inkscape:cy="16.6"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#56CEEB;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g
+   id="Menu_Pressed">
+	<path
+   class="st0"
+   d="M66.9,16.6c0,8.9-7.2,16.1-16.1,16.1c-8.9,0-16.1-7.2-16.1-16.1c0-8.9,7.2-16.1,16.1-16.1   C59.7,0.5,66.9,7.7,66.9,16.6z"
+   id="path4" />
+	<g
+   id="g12">
+		<rect
+   x="43.6"
+   y="12"
+   width="14.4"
+   height="1.6"
+   id="rect6" />
+		<rect
+   x="43.6"
+   y="15.9"
+   width="14.4"
+   height="1.6"
+   id="rect8" />
+		<rect
+   x="43.6"
+   y="19.7"
+   width="14.4"
+   height="1.5"
+   id="rect10" />
+	</g>
+</g>
+<g
+   id="Switcher_PRessed">
+	<path
+   class="st0"
+   d="M32.7,16.6c0,8.9-7.2,16.1-16.1,16.1c-8.9,0-16.1-7.2-16.1-16.1c0-8.9,7.2-16.1,16.1-16.1   C25.5,0.5,32.7,7.7,32.7,16.6z"
+   id="path15" />
+	<g
+   id="g21">
+		<polygon
+   points="14.1,16.5 11.1,16.5 11.1,12.7 16.5,12.7 16.5,14 18.3,14 18.3,11 9.4,11 9.4,18.4 14.1,18.4   "
+   id="polygon17" />
+		<path
+   d="M14.8,14.7v7.6h9v-7.6H14.8z M22,20.4h-5.5v-3.9H22V20.4z"
+   id="path19" />
+	</g>
+</g>
+</svg>
